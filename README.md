@@ -1,4 +1,4 @@
-### Выпускной проект курса Аналитик Данных на Karpov.Curses
+### Выпускной проект курса Аналитик Данных на Karpov.Courses
 
 <img src="images/task1.jpg" alt="pic1">
 
