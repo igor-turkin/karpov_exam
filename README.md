@@ -1,4 +1,4 @@
-### Выпускной проект курса Аналитик Данных на Karpov.Courses
+### В файле final_project.ipynb содержится Выпускной проект курса Аналитик Данных Karpov.Courses
 
 <img src="images/task1.jpg" alt="pic1">
 
