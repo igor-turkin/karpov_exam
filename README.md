@@ -1,7 +1,7 @@
 ## Проект
 Проект состоит из трех заданий с использованием общего датасета
 
-Jupyter notebook с анализом находится в файле [final_project.ipynb](https://github.com/igor-turkin/karpov_exam/blob/main/final_project.ipynb)
+Jupyter notebook с анализом находится в файле [final_project.ipynb](https://github.com/igor-turkin/karpov_exam/blob/main/final_project.ipynb)  
 Датасет находится в файле **`project_1_zadanie_2.csv`**  
 
 ## Задание 1. 
